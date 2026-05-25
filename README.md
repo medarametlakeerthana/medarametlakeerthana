@@ -2,7 +2,7 @@
 
 **Generative AI Engineer** based in New Jersey — I build LLM systems that actually work in production.
 
-📍 NJ, USA   |   📧 medarametlakeerthana26@gmail.com   |   🔗 [LinkedIn](https://linkedin.com/in/keerthana-medarametla)   |   💼 Open to new roles
+📍 NJ, USA   |   📧 medarametlakeerthana26@gmail.com   |   🔗 [LinkedIn](https://linkedin.com/in/keerthana-medarametla)   | 🌐 [Portfolio](https://keerthanamedarametla.netlify.app) |  💼 Open to new roles
 
 ---
 
@@ -79,5 +79,6 @@ Not side projects — actual production work with real numbers:
 ![Keerthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=medarametlakeerthana&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ---
+
 
 *Based in NJ. M.S. 2024. 3+ years in production AI. Currently open to roles — reach out anytime.*
